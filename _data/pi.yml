@@ -1,22 +1,19 @@
-- name: Dr. Richard Feynman
+- name: Dr. Michelle Blom
   photo: headshot.jpg
-  info: Richard C. Tolman Professor, California Institute of Technology
-  email: richard@university.edu
-  github: https://github.com/
-  researchgate: https://www.researchgate.net/
-  scholar: https://scholar.google.com/citations?user=B7vSqZsAAAAJ
-  cv: cv/cv.pdf
+  info: Senior Research Fellow, AI and Autonomy Lab, University of Melbourne
+  email: michelle.blom@unimelb.edu.au
+  github: https://github.com/michelleblom
+  scholar: https://scholar.google.com.au/citations?user=SSezJlYAAAAJ&hl=en
+  twitter: https://mobile.twitter.com/michelleblom8
   # Change the number below to the number of "educations" you have (up to 6)
   number_educ: 2
-  education1: "(1942) Ph.D. Physics, Princeton University"
-  education2: "(1939) B.S. Physics, Massachusetts Institute of Technology"
-  # education3: 
+  education1: "(2011) Ph.D. Computer Science, University of Melbourne"
+  education2: "(2006) BSc/BEng, University of Melbourne"
   # education4: 
   # education5: 
   # education6: 
-  education1short: (1942) Ph.D. Physics, Princeton
-  education2short: (1939) B.S. Physics, MIT
-  # education3short: 
+  education1short: (2011) Ph.D., UniMelb
+  education2short: (2006) BSc/BEng, UniMelb
   # education4short: 
   # education5short: 
   # education6short: 

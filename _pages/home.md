@@ -5,29 +5,15 @@ sitemap: false
 permalink: /
 ---
 
-### Welcome!
+  <h3>Welcome</h3>
 
-Theoretical physics is a branch of physics that focuses on the development of mathematical models and theories to understand and explain natural phenomena.
-It plays a crucial role in our understanding of the fundamental laws of the universe and the fundamental particles that make up all matter.
-Research in theoretical physics helps us to make predictions about how the universe works and to test these predictions through experiments.
-It also helps us to understand the fundamental principles that govern the behavior of matter and energy, and to explore the limits of our current knowledge.
-Theoretical physics helps us to make progress in a wide range of fields, including cosmology, particle physics, and quantum mechanics, and it has led to many important discoveries and technological innovations.
-
-<div class="container">
-<div class="row">
-<center>
-<img src="{{ site.url }}{{ site.baseurl }}/images/banner.jpg" width="100%"/><br/>
-Examples of Feynman diagrams. <br/>
-Feynman R., The theory of positrons. <i>Phys. Rev.</i> (1949)
-</center>
+<div class="jumbotron">
+I am a Senior Research Fellow in the AI and Autonomy Lab of the School of Computing and Information Systems at the University of Melbourne, Australia (2012-present). I completed my PhD in Computer Science at the University of Melbourne in 2011. I have rather diverse research interests that include election integrity (with a focus on post-election audits), combinatorial optimization (with a focus on algorithms for solving large problems through decomposition, local search, and the use of mathematical programming), applications of reinforcement learning, and Explainable AI.  For more detail on my work in some of these areas, head over to the Research tab!
 </div>
-</div>
-<br/>
 
-### About me
+  <h3>PhD Opportunities</h3>
+  
+  I am currently accepting new PhD students. If you are interested in my any facets of my work, and feel that you meet the requirements for entry into the PhD program with the Faculty of Engineering and IT (see <a href="https://study.unimelb.edu.au/find/courses/graduate/doctor-of-philosophy-engineering-and-it/how-to-apply/">here</a> for details on eligibility), please feel free to reach out to me. I am particularly interested in students that wish to work on post-election auditing (see the About and Research tabs for more details!). 
 
-I am a physicist working in the field of quantum mechanics and quantum electrodynamics.
-I received my undergraduate degree in physics from the Massachusetts Institute of Technology (MIT) in 1939 and went on to earn my PhD from Princeton University in 1942.
-After completing my doctoral studies, I worked on the Manhattan Project, where I helped develop the first atomic bombs.
-After the war, I returned to academia, holding teaching and research positions at Cornell and now the California Institute of Technology.
+
 
