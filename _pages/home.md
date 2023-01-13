@@ -8,7 +8,9 @@ permalink: /
   <h3>Welcome</h3>
 
 <div class="jumbotron">
-I am a Senior Research Fellow in the AI and Autonomy Lab of the School of Computing and Information Systems at the University of Melbourne, Australia (2012-present). I completed my PhD in Computer Science at the University of Melbourne in 2011. I have rather diverse research interests that include election integrity (with a focus on post-election audits), combinatorial optimization (with a focus on algorithms for solving large problems through decomposition, local search, and the use of mathematical programming), applications of reinforcement learning, and Explainable AI.  For more detail on my work in some of these areas, head over to the Research tab!
+I am a Senior Research Fellow in the AI and Autonomy Lab of the School of Computing and Information Systems at the University of Melbourne, Australia (2012-present). I completed my PhD in Computer Science at the University of Melbourne in 2011. I have rather diverse research interests that include election integrity (with a focus on post-election audits), combinatorial optimization (with a focus on algorithms for solving large problems through decomposition, local search, and the use of mathematical programming), applications of reinforcement learning, and Explainable AI.  For more detail on my work in some of these areas, head over to the Research tab! 
+
+On the socials I'm @michelleblom8 on Twitter and @michelleblom@aus.social on Mastodon.
 </div>
 
   <h3>PhD Opportunities</h3>
