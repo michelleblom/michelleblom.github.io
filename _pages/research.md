@@ -52,7 +52,8 @@ Currently, we are actively working on post-election audits for Single Transferab
 In addition to IRV/RCV and STV, we have also developed RLAs for other election types, including Hamiltonian (used for Presidential primaries), Party-List Proportional, and Ranked Pairs 
 elections.
 
-<b>Collaborators:</b> Peter J. Stuckey, Vanessa J. Teague, Damjan Vukcevic, Alexander Ek, Philip B. Stark, Ron Rivest, and Jurlind Budurushi.
+<b>Collaborators:</b> Peter J. Stuckey, Vanessa J. Teague, Damjan Vukcevic,
+Alexander Ek, Philip B. Stark, Ron Rivest, Olivier Pereira and Jurlind Budurushi.
 </div>
 </div>
 
@@ -64,7 +65,9 @@ In my first post-Phd research position, I worked with Rio Tinto Iron Ore (RTIO) 
 
 Across 2020-22, we revisited the idea of using LNS for solving long-term mine planning problems was revisited. There is precedent in the literature for using LNS on these kinds of problems, although the neighbourhood structures applied in existing work were generally not very effective on heavily constrained problems. The models we considered involved multiple mines, rail, and a port system, together with capital decisions and tight constraints. We looked at the kinds of constraints that we had in our models, such as blending and minimum/maximum production constraints, and designed neighbourhood structures to maximise the opportunities for finding new and improved solutions. This work was particularly successful, with the resulting algorithm able to solve problems in hours that previously took days of solving.  
 
-In terms of where I would like to take this work, I have a particular interest in multi-horizon planning. In the resources, and other, sectors it is common to plan at different horizons, ranging from longer-term more strategic planning to shorter-term horizons. Planning at one horizon will typically guide the plans at the shorter-term.  If we consider the mining sector, long-term plans aim to maximise the net present value (NPV) of a project, yet it's at the short-term where this value will either be realised or lost. Current practice does not connect planning models across horizons in any meaningful way, and when used discretely these models are less than optimal. With connected models, planners would be able to analyse the impact of decisions at one horizon on those above and below, and be guided towards short-term decisions that are, for example, the least destructive to longer-term value.  
+In terms of where I would like to take this work, I have a particular interest
+in multi-horizon planning, stochastic optimization, and incorporating climate
+related adaptations into planning processes. In the resources, and other, sectors it is common to plan at different horizons, ranging from longer-term more strategic planning to shorter-term horizons. Planning at one horizon will typically guide the plans at the shorter-term.  If we consider the mining sector, long-term plans aim to maximise the net present value (NPV) of a project, yet it's at the short-term where this value will either be realised or lost. Current practice does not connect planning models across horizons in any meaningful way, and when used discretely these models are less than optimal. With connected models, planners would be able to analyse the impact of decisions at one horizon on those above and below, and be guided towards short-term decisions that are, for example, the least destructive to longer-term value.  
 
 <b>Collaborators:</b> Adrian R. Pearce, Peter J. Stuckey, Rio Tinto.
 </div>

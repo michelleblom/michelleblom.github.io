@@ -68,14 +68,7 @@ I am a Senior Research Fellow in the AI and Autonomy Lab of the School of Comput
 
   <h3>PhD Opportunities</h3>
   
-  I am currently accepting new PhD students. If you are interested in my any facets of my work, and feel that you meet the requirements for entry into the PhD program with the Faculty of Engineering and IT (see <a href="https://study.unimelb.edu.au/find/courses/graduate/doctor-of-philosophy-engineering-and-it/how-to-apply/">here</a> for details on eligibility), please feel free to reach out to me. I am particularly interested in students who wish to work on post-election audits (see below). 
-  
-  <div class="jumbotron">
-<b>Election Integrity through Post-Election Audits</b>
-
-Interested in election integrity, and doing a PhD (full or part-time) in Australia? Then we want you! Our team is actively working towards risk-limiting post-election audits for Single Transferable Vote (STV) elections. If you are unfamiliar with the term, this is how we elect our Senators to the Australian Senate. It's also used in a smattering of other places world-wide, including some elections in the United States and the United Kingdom. The ballots cast in our Senate election here in Australia are not manually counted. The way in which STV works is just too complex for manual counting to be practical. Ballot scanning technology is used to digitise the preferences expressed by a voter on their ballot, with these digitised preferences then fed into software that performs the tabulation, and determines which candidates are elected. Such technology is not perfect, there will always be some chance of misinterpretation, or errors, between paper ballots and their digitisation. We have found in prior work that even random errors during ballot scanning can impact certain candidates more than others. A post-election audit is designed to give us a certain degree of confidence that the outcome announced by the systems used is in fact the correct outcome. Practical and meaningful post-election audits for STV elections is the current 'holy grail' of our work in this space, and we are looking for PhD students to work on this goal. We have recently been awarded an ARC Discovery Project on the topic, and top-up scholarships of up to 10,000 AUD per year are a possibility.  
-</div>
-
+  I am currently accepting new PhD students. If you are interested in my any facets of my work, and feel that you meet the requirements for entry into the PhD program with the Faculty of Engineering and IT (see <a href="https://study.unimelb.edu.au/find/courses/graduate/doctor-of-philosophy-engineering-and-it/how-to-apply/">here</a> for details on eligibility), please feel free to reach out to me. 
 {% if site.data.grants %}
 <div class="jumbotron">
 ### Grants
