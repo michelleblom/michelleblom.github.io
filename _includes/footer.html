@@ -13,10 +13,12 @@
             <p>{{ site.contact }}</p>
 		</div>
 
+		{% if site.location %}
 		<div class="col-sm-4">
 		    <h5>Coordinates</h5>	
             <p>{{ site.location }}</p>
 		</div>
+		{% endif %}
 	  </div>
 
       <center><p>&copy {{ "now" | date: "%Y" }} {{site.title | escape }} </p></center>
@@ -26,3 +28,10 @@
 
 <script src="{{ "/assets/javascript/bootstrap/jquery.min.js" | relative_url }}"></script>
 <script src="{{ "/assets/javascript/bootstrap/bootstrap.bundle.min.js" | relative_url }}"></script>
+<script>
+// Shows or hides a publication's BIB or ABSTRACT box.
+function toggleDisplay(id) {
+    var x = document.getElementById(id);
+    x.style.display = (x.style.display === 'none') ? 'block' : 'none';
+}
+</script>

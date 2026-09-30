@@ -1,10 +1,9 @@
 - name: Dr. Michelle Blom
   photo: headshot.png
-  info: Senior Research Fellow, AI and Autonomy Lab, University of Melbourne
-  email: michelle.blom@unimelb.edu.au
+  info: Senior Lecturer, Department of Data Science and AI, Monash University
+  email: michelle.blom@monash.edu
   github: https://github.com/michelleblom
   scholar: https://scholar.google.com.au/citations?user=SSezJlYAAAAJ&hl=en
-  twitter: https://mobile.twitter.com/michelleblom8
   linkedin: https://au.linkedin.com/in/michelleblom
   # Change the number below to the number of "educations" you have (up to 6)
   number_educ: 2

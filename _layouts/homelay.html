@@ -2,9 +2,19 @@
 layout: default
 ---
 
+{% comment %}Content after the "full-width" marker in the page is shown across both columns, above the News box.{% endcomment %}
+{% assign sections = content | split: "<!-- full-width -->" %}
   <div id="homeid" class="col-sm-7 col-xs-12">
-	{{ content }}
+	{{ sections[0] }}
   </div>
   <div id="newsid" class="col-sm-5 col-xs-12" >
 	{% include sidebar.html %}
+  </div>
+{% if sections[1] %}
+  <div id="fullwidthid" class="col-12">
+	{{ sections[1] }}
+  </div>
+{% endif %}
+  <div id="newsboxid" class="col-12">
+	{% include news_box.html %}
   </div>

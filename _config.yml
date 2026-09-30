@@ -1,6 +1,6 @@
 # Site settings
 title: Michelle Blom
-email: michelle.blom@unimelb.edu.au
+email: michelle.blom@monash.edu
 description: Academic webpage of Dr. Michelle Blom
 baseurl: ""
 url: ""
@@ -8,25 +8,18 @@ url: ""
 # Footer info
 affiliation: >
     Michelle Blom<br/>
-    Senior Research Fellow<br/>
-    AI and Autonomy Lab<br/>
-    University of Melbourne
-
-location: >
-  Melbourne Connect<br/>
-  University of Melbourne<br/>
-  Parkville, Australia, 3010
+    Senior Lecturer<br/>
+    Department of Data Science and AI<br/>
+    Faculty of Information Technology<br/>
+    Monash University
 
 contact: >
-    <a href="mailto:michelle.blom@unimelb.edu.au" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Michelle via email</a> <br/>
+    <a href="mailto:michelle.blom@monash.edu" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Michelle via email</a> <br/>
     <a href="https://github.com/sbryngelson/academic-website-template"><i class="fa fa-github fa-1x"></i> Use this site as a template!</a>
 
 # Pages shown in navbar
 nav_pages:
-  - name: about
   - name: publications
-  - name: research
-  - name: software
   - name: news
 
 include:
